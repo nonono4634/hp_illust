@@ -1,7 +1,7 @@
 # GitHub Push & PR 手順書
 
 ## 前提条件
-- GitHub アカウント: `otsuka4634`
+- GitHub アカウント: `nonono4634`
 - リポジトリ名: `hp_illust`（新規作成）
 - Git インストール済み
 
@@ -55,7 +55,7 @@ git push -u origin feature/initial-portfolio
 
 ## Step 6 — Pull Request を作成
 
-1. https://github.com/otsuka4634/hp_illust を開く
+1. https://github.com/nonono4634/hp_illust を開く
 2. 黄色いバナー「Compare & pull request」をクリック
 3. 以下を入力して **「Create pull request」**:
 
@@ -116,4 +116,4 @@ jobs:
           publish_dir: ./dist
 ```
 
-公開URL: `https://otsuka4634.github.io/hp_illust/`
+公開URL: `https://nonono4634.github.io/hp_illust/`
