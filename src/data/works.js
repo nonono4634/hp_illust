@@ -1,7 +1,7 @@
 export const WORKS = [
   {
     id: 1,
-    file: '/hp_illust/images/すると2.png',
+    file: '/images/すると2.png',
     title: 'すると',
     cat: 'オリジナル',
     color: '#FF6B9D',
@@ -12,7 +12,7 @@ export const WORKS = [
   },
   {
     id: 2,
-    file: '/hp_illust/images/めろんちゃん2s.png',
+    file: '/images/めろんちゃん2s.png',
     title: 'めろんちゃん',
     cat: 'キャラクター',
     color: '#5ECFCF',
@@ -23,7 +23,7 @@ export const WORKS = [
   },
   {
     id: 3,
-    file: '/hp_illust/images/アルギニンちゃん.png',
+    file: '/images/アルギニンちゃん.png',
     title: 'アルギニンちゃん',
     cat: 'オリジナル',
     color: '#B69BFF',
@@ -34,7 +34,7 @@ export const WORKS = [
   },
   {
     id: 4,
-    file: '/hp_illust/images/イージークラスタ3修正.png',
+    file: '/images/イージークラスタ3修正.png',
     title: 'イージークラスタ',
     cat: 'キャラクター',
     color: '#6EC6FF',
@@ -45,7 +45,7 @@ export const WORKS = [
   },
   {
     id: 5,
-    file: '/hp_illust/images/カレンチャン3.png',
+    file: '/images/カレンチャン3.png',
     title: 'カレンチャン',
     cat: 'ファンアート',
     color: '#FFD93D',
@@ -56,7 +56,7 @@ export const WORKS = [
   },
   {
     id: 6,
-    file: '/hp_illust/images/キズナアカリ2.png',
+    file: '/images/キズナアカリ2.png',
     title: 'キズナアカリ',
     cat: 'ファンアート',
     color: '#FF8C69',
@@ -67,7 +67,7 @@ export const WORKS = [
   },
   {
     id: 7,
-    file: '/hp_illust/images/ネリアちゃん_a.png',
+    file: '/images/ネリアちゃん_a.png',
     title: 'ネリアちゃん',
     cat: 'オリジナル',
     color: '#FF6B9D',
@@ -78,7 +78,7 @@ export const WORKS = [
   },
   {
     id: 8,
-    file: '/hp_illust/images/音響ちゃん3.png',
+    file: '/images/音響ちゃん3.png',
     title: '音響ちゃん',
     cat: 'オリジナル',
     color: '#B69BFF',
